@@ -21,7 +21,4 @@ starb Yoda an Altersschwäche und wurde eins mit der Macht.
 > Tu es, oder tu es nicht, es gibt kein Versuchen
 
 ## Yoda
-img src=https://images-na.ssl-images-amazon.com/images/I/91Au8mepKtL._AC_SY355_.jpg/
-
-
-![Alt Text](https://images-na.ssl-images-amazon.com/images/I/91Au8mepKtL._AC_SY355_.jpg)
+img src="https://images-na.ssl-images-amazon.com/images/I/91Au8mepKtL._AC_SY355_.jpg"/
