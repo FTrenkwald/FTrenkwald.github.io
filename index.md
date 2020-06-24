@@ -1,3 +1,13 @@
 # Mein Lieblingscharakter
-Mein Charakter ist ein kleines Wesen dessen Spezies unbeknnt ist. Er ist ein Jedi-Großmeister und weiser als alle Jedis vor ihm. Als einer der wenigen, überlebte er die Order 66, die fast alle Jedis tötete. Danach ging er ins Exil nach Dagobah.
 
+## Erkennungsmerkmale
+* Grün
+* Klein
+* Jedi
+* Ca. 900 Jahre alt 
+* Weise
+* Midichlorianwert 20.000
+* Platz im Rat der Jedi
+* Exil in Dagobah
+* Padawan Count Doku
+* Überlebte die Order 66
